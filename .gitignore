@@ -4,5 +4,5 @@ tmp/
 Trumbs.db
 .DS_Store
 # будут игнорироваться файлы, заканчивающиеся суффиксами _old и _backup
-*_old.*
-*_backup.*
+*_old
+*_backup
